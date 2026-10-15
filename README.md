@@ -791,5 +791,6 @@ Ask your account manager before building:
 - Opt-outs are never answered or tagged by the agent. Aloware's carrier-compliant opt-out handling covers them.
 
 Related: [aloware-ai-hubspot-scheduling](https://github.com/carljibrilsulaimanii/aloware-ai-hubspot-scheduling), where an AloAi agent books calls on a HubSpot meeting link.
+[hubspot-aloware-sms-cta-reply-tagging](https://github.com/carljibrilsulaimanii/hubspot-aloware-sms-cta-reply-tagging) is a built and tested alternative for the reps' side. It needs no AloAi agent: a HubSpot custom code step tags short code replies to marketing texts, and contact views split campaign replies from reps' own conversations.
 
 Built by [Jibril Sulaiman](https://github.com/carljibrilsulaimanii).
